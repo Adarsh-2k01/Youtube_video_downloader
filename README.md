@@ -1,8 +1,5 @@
 # YouTubeVideo_Downloader
 
-## Video URL:
-    https://youtu.be/mYGRM16cjwg
-
 ## Important Note:
     FFmpeg Installation: Ensure that the ffmpeg binary is placed in the C:\ drive (C:\ffmpeg\bin) and that the directory is added to your system's PATH environment variable. This allows the application to access the ffmpeg commands. And the linkfor downloding the zip file is - https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z ,(Extract the file and place the bin folder in "C:\ffmpeg\" the full path should like "C:\ffmpeg\bin".)
 
