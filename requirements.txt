@@ -1,0 +1,4 @@
+pytube
+requests
+ffmpeg-python
+Pillow
